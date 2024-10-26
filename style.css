@@ -165,6 +165,10 @@ body {
     margin-left: 10px;
 }
 
+.recipe-details-ingredients-info {
+    padding-top: 5px
+}
+
 .recipe-details-steps {
     padding-top: 20px;
 }
