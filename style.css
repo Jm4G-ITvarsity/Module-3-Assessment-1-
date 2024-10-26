@@ -159,6 +159,10 @@ body {
     display: inline-block;
 }
 
+.recipe-details-ingredients-list {
+    padding-top: 12px;
+}
+
 .recipe-details-ingredients label {
     margin-top: 6px;
     line-height: 20px;
